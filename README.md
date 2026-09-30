@@ -1,4 +1,4 @@
-# Desafio_Star_Schema_Financials.pbix
+# Desafio_Star_Schema_Financials
 # Desafio de Projeto: Modelagem e Transformação de Dados com DAX no Power BI
 
 Este repositório contém a solução do desafio prático de modelagem dimensional **Star Schema (Esquema em Estrela)** utilizando o conjunto de dados *Financial Sample* no Power BI.
